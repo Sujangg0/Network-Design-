@@ -10,12 +10,16 @@ This project demonstrates a **secure and scalable three-tier network architectur
 
 ## 📡 **Logical Diagram**  
 
+### 🌍 **ISPs / Internet**  
+![ISPs / Internet](https://github.com/user-attachments/assets/2488e788-0a52-446d-92bb-9c25e4cc443e)
+
+
 ### 🏢 **Head Office**  
 ![Head Office](https://github.com/user-attachments/assets/cbfbb79b-b0e9-4e78-b862-e903ab8ecf00)  
 
 ### 🏬 **Branch Office**  
-![Branch Office](https://github.com/user-attachments/assets/918d8912-0b36-45f9-a461-1e773299f107)  
-
+![Branch Office](https://github.com/user-attachments/assets/334f6330-a1ca-4aa4-8223-9500eaacbc37)
+ 
 ---
 
 ## 🏗️ **Network Architecture**  
